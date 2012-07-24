@@ -1,0 +1,53 @@
+commit 0b7a0a041a202d24a985ac095fd43107fe102f13
+Author: Tim Wu <wutim@berkeley.edu>
+Date:   Tue Jul 17 21:02:51 2012 -0700
+
+    Tentative progress changes, Chapter 7?
+
+commit b8453d1ba9c1676452e907ae9d642f76f98ff0e9
+Author: Tim Wu <wutim@berkeley.edu>
+Date:   Sun May 27 17:39:30 2012 -0700
+
+    Make a basic User model (including secure passwords)
+
+commit 03c9972fdedb832fe615c048aaaa48c8cc2e8435
+Author: Tim Wu <wutim@berkeley.edu>
+Date:   Fri May 25 01:35:53 2012 -0700
+
+    Finish layout and routes
+
+commit e233021d90e5426027e03662c7ed0fae31a5b588
+Author: Tim Wu <wutim@berkeley.edu>
+Date:   Wed May 23 00:18:32 2012 -0700
+
+    Add a full_title helper
+
+commit 002c28238317e2121d3b4546df7ea4cf746df43d
+Author: Tim Wu <wutim@berkeley.edu>
+Date:   Tue May 22 02:18:55 2012 -0700
+
+    Add a title helper
+
+commit 26f157cfa2cf313501c00790e4a90843218ffb9f
+Author: Tim Wu <wutim@berkeley.edu>
+Date:   Mon May 21 03:03:17 2012 -0700
+
+    Finish static pages
+
+commit 2af1dae384a6b46704ea0c17b6e66f386154b60a
+Author: Tim Wu <wutim@berkeley.edu>
+Date:   Mon May 21 02:06:31 2012 -0700
+
+    Add a StaticPages controller
+
+commit abc5d326561665a1d9a0619f3447a8587ddd8e62
+Author: Tim Wu <wutim@berkeley.edu>
+Date:   Sun May 20 04:27:59 2012 -0700
+
+    Improve the README
+
+commit 9a60a43f3a9acc4d5ae2741d04b7bda671e4ce09
+Author: Tim Wu <wutim@berkeley.edu>
+Date:   Sun May 20 04:26:47 2012 -0700
+
+    Initial commit
